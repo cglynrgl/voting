@@ -37,17 +37,6 @@ CREATE TABLE `tb` (
 -- Tablo döküm verisi `tb`
 --
 
-INSERT INTO `tb` (`id`, `vat`, `oy`) VALUES
-(2, '19ed90687d0eebc80f7c52008dd1fe8e', 'chp'),
-(3, '9a25ebf156cf8aaf0c966b0d26b93884', 'hdp'),
-(4, '3cce5a8ef46f2f243a4b893a7b1a6fdf', 'chp'),
-(5, '46fbcb6ac10a49368199d64f76390ebb', 'chp'),
-(6, '263a96955f389d777d97f170ac81a83d', 'chp'),
-(7, 'cf5da183bafb46bf521baaf1cdcbefd9', 'chp'),
-(9, 'aa87434656296451a9e3a6507d2e7da9', 'akp'),
-(10, 'f2d71ec33ad6a11de8af11e7cd8fe9a2', 'akp'),
-(11, 'e9a49418e0bc111912c1325df88c95b6', 'mhp');
-
 --
 -- Dökümü yapılmış tablolar için indeksler
 --
