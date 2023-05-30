@@ -1,2 +1,5 @@
 a developpable online voting system. 
 in the very first step I just created system to enable people to vote online.
+vat.sql creates a table of voters, and so that you can add voters using save.php
+tb.sql creates a table, which stores the votes sent using index.php
+result.php reflects the results in percentage
