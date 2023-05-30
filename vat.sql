@@ -38,17 +38,6 @@ CREATE TABLE `vat` (
 -- Tablo döküm verisi `vat`
 --
 
-INSERT INTO `vat` (`id`, `isim`, `soyisim`, `vatcrypt`) VALUES
-(1, 'Çağlayan', 'Eroğlu', '19ed90687d0eebc80f7c52008dd1fe8e'),
-(2, 'Emre', 'Eroğlu', '9a25ebf156cf8aaf0c966b0d26b93884'),
-(3, 'Hasan', 'Eroğlu', '3cce5a8ef46f2f243a4b893a7b1a6fdf'),
-(4, 'Melih', 'Eroğlu', '46fbcb6ac10a49368199d64f76390ebb'),
-(5, 'Ayşegül', 'Zengin', '263a96955f389d777d97f170ac81a83d'),
-(6, 'Mustafa', 'Eroğlu', 'cf5da183bafb46bf521baaf1cdcbefd9'),
-(7, 'Nejla', 'Eroğlu', 'e9a49418e0bc111912c1325df88c95b6'),
-(8, 'Esat', 'Eroğlu', 'aa87434656296451a9e3a6507d2e7da9'),
-(9, 'Güven', 'Eroğlu', 'f2d71ec33ad6a11de8af11e7cd8fe9a2');
-
 --
 -- Dökümü yapılmış tablolar için indeksler
 --
